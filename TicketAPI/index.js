@@ -11,6 +11,7 @@ app.listen(3000, () => {
 //-----------------------------
 //=== MADE BY ITSMC
 //== Do not remove this. OR ELSE.
+//MUST READ TERMS
 
 const Discord = require('discord.js');
 const client = new Discord.Client({partials: ["MESSAGE", "USER", "REACTION"]});
